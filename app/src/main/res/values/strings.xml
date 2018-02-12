@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">JHott-Leitsch_EnglishToMetric</string>
+    <string name="txtTitle">English to Metric</string>
+    <string name="btnConversion">FIND CONVERSION</string>
+    <string name="prompt">Select Conversion</string>
+    <string-array name="conversions">
+        <item>Inch to Centimeters</item>
+        <item>Miles to Kilometers</item>
+        <item>Feet to Meters</item>
+        <item>Ounce to Grams</item>
+    </string-array>
+
+</resources>
